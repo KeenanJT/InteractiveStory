@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4ABA5C111D4A400700C2FA6A /* InteractiveStoryNoes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = InteractiveStoryNoes.playground; sourceTree = "<group>"; };
 		4ACA21721D482D6A007049F3 /* InteractiveStory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InteractiveStory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4ACA21751D482D6A007049F3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4ACA21771D482D6A007049F3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +55,7 @@
 		4ACA21741D482D6A007049F3 /* InteractiveStory */ = {
 			isa = PBXGroup;
 			children = (
+				4ABA5C111D4A400700C2FA6A /* InteractiveStoryNoes.playground */,
 				4ACA21751D482D6A007049F3 /* AppDelegate.swift */,
 				4ACA21771D482D6A007049F3 /* ViewController.swift */,
 				4ACA21791D482D6A007049F3 /* Main.storyboard */,
@@ -287,6 +289,7 @@
 				4ACA21861D482D6A007049F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
