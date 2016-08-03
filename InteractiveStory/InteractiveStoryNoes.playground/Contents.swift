@@ -8,6 +8,7 @@
  2) "Navigation Bar" To display a few custom views on its own. These views are navigation bars: back button, label, or others.
  3) Adds or removes View Controllers
  4) Stores an array of View Controllers
+ 5) Navigation controller object manage the currently displayed screens by using the navigation stoack, which is represented by an array of view controllers
  
  View Controller -
  1)Manages the view; shows, animates, hides, or do whatever it needs
